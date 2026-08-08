@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Testing Some $\LaTeX$ in Markdown
 ---
 
