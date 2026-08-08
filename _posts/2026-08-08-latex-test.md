@@ -1,4 +1,7 @@
-# Testing Some $\LaTeX$ in Markdown
+---
+layout: default
+title: Testing Some $\LaTeX$ in Markdown
+---
 
 Einstein said $E=mc^2$.
 
